@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kbbank.jdbc_ex.common.JDBCUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-05-29T06:55:49.354Z" hostname="M6F" time="0.343">
+  <properties/>
+  <testcase name="jdbc_ex1에 접속한다." classname="com.kbbank.jdbc_ex.common.JDBCUtilTest" time="0.343"/>
+  <system-out><![CDATA[드라이버 로드 ok!
+db connection ok!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
